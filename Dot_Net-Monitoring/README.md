@@ -2,8 +2,6 @@
 
 ## Below is the Application Source code for this project
 
-[![DevOps-Project-24: DotNet Monitoring](https://img.shields.io/badge/Project-DotNet%20Monitoring-brightgreen)](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-24/DotNet-monitoring)
-
 ![](<https://miro.medium.com/v2/resize:fit:700/0*lhbz9vRWnbRl4xVS>)
 
 We will be deploying a .NET-based application. This is an everyday use case scenario used by several organizations. We will be using Jenkins as a CICD tool and deploying our application on a Docker Container and Kubernetes cluster. Hope this detailed blog is useful.
@@ -610,7 +608,5 @@ pipeline{
 
 ### Author by
 
-![](https://imgur.com/2j6Aoyl.png)
+DEVOPS INSTITUTE MUMBAI 
 
-> [!Note]
-> Join Our [Telegram Community](https://t.me/prodevopsguy) || [Follow me](https://github.com/NotHarshhaa) for more DevOps Content

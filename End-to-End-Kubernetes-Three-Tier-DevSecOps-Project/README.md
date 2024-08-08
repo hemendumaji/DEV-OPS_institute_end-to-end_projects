@@ -1,5 +1,3 @@
-Here's the edited version of your README with the brand name as DevOps Institute Mumbai:
-
 ---
 
 # Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins

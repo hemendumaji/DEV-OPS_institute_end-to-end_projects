@@ -1,3 +1,7 @@
+Here's the edited version of your README with the brand name as DevOps Institute Mumbai:
+
+---
+
 # Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins
 
 ![Three-Tier Banner](assets/Three-Tier.gif)
@@ -50,5 +54,7 @@ We welcome contributions! If you have ideas for enhancements or find any issues,
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
+Copyright is established with [DevOps Institute Mumbai]
 Happy Coding! 🚀
+
+---

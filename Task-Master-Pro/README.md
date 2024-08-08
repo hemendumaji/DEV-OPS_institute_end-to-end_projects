@@ -1,4 +1,4 @@
-# Task Master Pro
+# Task Master Pro End To End Project
 
 Welcome to Task Master Pro, a comprehensive Java application designed to manage tasks efficiently. This project is developed and maintained by DevOps Shack, a YouTube channel dedicated to DevOps tutorials and best practices.
 
@@ -84,6 +84,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please reach out to us at [DevOps Shack](https://www.youtube.com/@devopsshack/videos)
+For any questions or inquiries, please reach out to us at [DEVOPS INSTITUTE MUMBAI]
 
-Happy coding!
+Happy Folks!
